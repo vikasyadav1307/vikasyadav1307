@@ -1,11 +1,6 @@
 <img width="2172" height="724" alt="readme banner" src="https://github.com/user-attachments/assets/9150a7e4-4d03-41bc-b4d4-0b7ad60052dd" />
 
 <!-- ===================== HERO ===================== -->
-
-<p align="center">
-  <img src="YOUR_EXISTING_BANNER_IMAGE_URL" width="100%" />
-</p>
-
 <br>
 
 <h1 align="center">Hi, I'm Vikas Yadav 👋</h1>
