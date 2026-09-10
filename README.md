@@ -19,15 +19,6 @@
   and continuously improving through real-world projects.
 </p>
 
-<p align="center">
-  <a href="https://github.com/vikasyadav1307">
-    <img src="https://img.shields.io/badge/GitHub-vikasyadav1307-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://shopfusion-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Project-ShopFusion-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -71,6 +62,7 @@ I learn primarily by building — from web applications and e-commerce systems t
 
 - 🌦️ **Weather | Weather Application:** Weather API • Web Development • Real-Time Data  
   Web application for retrieving and presenting weather information through a clean, user-focused interface.
+---
 
 ### Exploring
 
@@ -79,19 +71,6 @@ I learn primarily by building — from web applications and e-commerce systems t
 - 🔍 Fake-news detection
 - 📝 Sentiment analysis
 - 🧠 Understanding patterns in news content
-
----
-
-## 💻 Programming & Problem Solving
-
-I regularly practice programming and algorithmic problem solving to strengthen my fundamentals, logic, and coding skills.
-
-**Focus**
-
-`Data Structures & Algorithms`  
-`Object-Oriented Programming`  
-`Problem Solving`  
-`Clean Code`
 
 ---
 
@@ -199,19 +178,24 @@ I'm continuously working on improving my technical depth in:
 
 ---
 
-# ⚡ How I Work
+---
 
-```text
-       IDEA
-        ↓
-      LEARN
-        ↓
-      BUILD
-        ↓
-      BREAK
-        ↓
-      DEBUG
-        ↓
-     IMPROVE
-        ↓
-      REPEAT
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikasyadav1307">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://x.com/_yadav_vikas">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  
+  <a href="https://instagram.com/_yadav_vikas">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:yadavvikas1307@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
