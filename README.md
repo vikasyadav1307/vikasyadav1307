@@ -52,52 +52,25 @@ I learn primarily by building — from web applications and e-commerce systems t
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🛍️ ShopFusion
+- 🛍️ **ShopFusion | Full-Stack E-Commerce:** Next.js • TypeScript • React • Tailwind • Prisma • PostgreSQL • Clerk  
+  Modern shopping platform with product search, filtering, wishlist, cart, checkout, authentication & database-backed products.  
 
-### Modern Full-Stack E-Commerce Platform
+- 🛡️ **VeritasAI | Multilingual Fake News Detection:** NLP • Transformers • Multilingual Text • Fake News Detection • Sentiment Analysis  
+  AI-based system focused on analyzing multilingual content, detecting misinformation patterns and performing sentiment analysis.
 
-A modern e-commerce platform focused on delivering a clean and practical shopping experience.
+- 🤖 **AI-Enabled Interview System | AI Interview Platform:** AI • NLP • Automated Evaluation • Interview Analysis  
+  Intelligent interview system designed to support AI-driven questioning, candidate evaluation and performance analysis.
 
-**Built with**
+- ✈️ **TripPilot | AI-Based Tour Planner:** AI • Travel Planning • Personalized Itineraries  
+  AI-powered travel planning project designed to simplify trip planning and generate personalized travel experiences.
 
-`Next.js` `TypeScript` `React` `Tailwind CSS` `Prisma` `PostgreSQL` `Clerk`
+- 💻 **Portfolio | Personal Developer Portfolio:** Web Development • Responsive UI • Projects • Skills  
+  Personal portfolio showcasing my development work, technical skills, projects and journey as a Computer Science student.
 
-### Highlights
-
-- 🛒 Shopping cart & checkout flow
-- 🔐 Authentication & user account management
-- 🔎 Product search & filtering
-- ❤️ Saved products / wishlist experience
-- 📦 Product catalogue & categories
-- 🗄️ Database-backed product data
-- 📱 Responsive storefront
-
-<p>
-  <a href="https://shopfusion-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-ShopFusion-2563EB?style=for-the-badge">
-  </a>
-  <a href="https://github.com/vikasyadav1307/shopfusion">
-    <img src="https://img.shields.io/badge/💻_SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
-
----
-
-## 📰 Multilingual Fake News Detection & Sentiment Analysis
-
-### Transformer-Based NLP Project
-
-An academic NLP project focused on analyzing news content across multiple languages while exploring misinformation detection and sentiment analysis.
-
-**Focus Areas**
-
-`Natural Language Processing`  
-`Transformers`  
-`Multilingual Text`  
-`Fake News Detection`  
-`Sentiment Analysis`
+- 🌦️ **Weather | Weather Application:** Weather API • Web Development • Real-Time Data  
+  Web application for retrieving and presenting weather information through a clean, user-focused interface.
 
 ### Exploring
 
