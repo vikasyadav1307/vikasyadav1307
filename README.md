@@ -1,4 +1,5 @@
-<img width="2172" height="724" alt="Vikas Yadav (2)" src="https://github.com/user-attachments/assets/cdc4848b-4f16-4ba5-8d68-d9dd317c45b4" />
+<img width="2172" height="724" alt="readme banner" src="https://github.com/user-attachments/assets/9150a7e4-4d03-41bc-b4d4-0b7ad60052dd" />
+
 <br>
 
 <h1 align="center">Hi, I'm Vikas Yadav 👋</h1>
